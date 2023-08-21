@@ -6,13 +6,12 @@
 
 .sobre-mim .imagem-sobre-mim .img-box {
     padding: 15px;
-    border-radius: 5px;
+    border-radius: 50%;
     text-align: center;
 }
 
 .sobre-mim .imagem-sobre-mim img {
     border: 10px solid transparent;
-    border-radius: 5px;
 }
 
 .sobre-mim .informacoes-sobre-mim {    

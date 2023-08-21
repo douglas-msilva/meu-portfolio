@@ -21,11 +21,6 @@
     -webkit-transition: all .3s ease;
 }
 
-.habilidades .container-habilidades .informacoes:hover p,
-.habilidades .container-habilidades .informacoes:hover h3,
-.habilidades .container-habilidades .informacoes:hover .logo i{
-    color: var(--cor-primaria);
-}
 
 .habilidades .container-habilidades .informacoes h3 {
     font-size: var(--fonte-extra-grande);
@@ -41,4 +36,9 @@
 
 .habilidades .container-habilidades .informacoes .logo i {
     font-size: 8rem;
+}
+
+.habilidades .container-habilidades .informacoes:hover h3,
+.habilidades .container-habilidades .informacoes:hover .logo i{
+    color: var(--cor-secundaria);
 }
