@@ -1,21 +1,21 @@
 :root {
-    --cor-primaria: #9A21D6;
-    --cor-secundaria: #fde722;    
-    --cor-branca: #fff;
-    --cor-fundo-escuro: #30363d;    
-    --cor-fundo-cinza-escuro: #0e0e12;
-    --cor-fundo-cinza-claro: #0d1117;   
-  }
-    
-  :root {
-    --fonte-primaria: 'Poppins', sans serif;
-    --fonte-secundaria: 'Raleway', sans serif;
-    --fonte-gigante: 4.5rem;
-    --fonte-extra-grande: 3rem;
-    --fonte-grande: 2.4rem;
-    --fonte-normal: 1.6rem;
-  }
-  
-  :root {
-    --mobile-padding: 30px;
-  }
+  --cor-primaria: #9a21d6;
+  --cor-secundaria: #fde722;
+  --cor-branca: #fff;
+  --cor-fundo-escuro: #30363d;
+  --cor-fundo-cinza-escuro: #0e0e12;
+  --cor-fundo-cinza-claro: #0d1117;
+}
+
+:root {
+  --fonte-primaria: "Roboto", sans-serif;
+  --fonte-secundaria: "Fira Code", monospace;
+  --fonte-gigante: 4.5rem;
+  --fonte-extra-grande: 3rem;
+  --fonte-grande: 2.4rem;
+  --fonte-normal: 1.6rem;
+}
+
+:root {
+  --mobile-padding: 30px;
+}
